@@ -1,0 +1,5 @@
+name: PlayerJoinLeavePlugin
+version: ${project.version}
+main: me.jumpypanter.playerjoinleaveplugin.PlayerJoinLeavePlugin
+api-version: 1.16
+authors: [ JumpyPanter ]
