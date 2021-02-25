@@ -1,0 +1,5 @@
+name: FirstPlugin
+version: ${project.version}
+main: me.jumpypanter.firstplugin.FirstPlugin
+authors: [ JumpyPanter ]
+description: This is my first plugin

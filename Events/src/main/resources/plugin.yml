@@ -1,0 +1,5 @@
+name: Events
+version: ${project.version}
+main: me.jumpypanter.events.Events
+authors: [ JumpyPanter ]
+description: Events Practice
